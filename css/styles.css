@@ -1,0 +1,33 @@
+body {
+  padding-top: 5rem;
+}
+.starter-template {
+  padding: 3rem 1.5rem;
+  text-align: center;
+}
+#navTop {
+  background-color: #99003d;
+  border-color: #99003d;
+  color: #f2f2f2;
+}
+#mainPoint {
+  color: #f2f2f2;
+}
+#navbarsExampleDefault {
+  color: #e6e6e6;
+}
+#home {
+  color: #e6e6e6;
+}
+#characterTips {
+  color: #e6e6e6;
+}
+#storyStructure {
+  color: #e6e6e6;
+}
+#randomTips {
+  color: #e6e6e6;
+}
+#otherWebsites {
+  color: #e6e6e6;
+}
