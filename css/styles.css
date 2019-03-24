@@ -4,6 +4,7 @@ body {
 .starter-template {
   padding: 3rem 1.5rem;
   text-align: center;
+  margin: 10;
 }
 #navTop {
   background-color: #99003d;
