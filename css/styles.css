@@ -16,6 +16,12 @@ body {
 #navbarsExampleDefault {
   color: #e6e6e6;
 }
+#bookPile {
+  display: flex;
+  padding: 20px;
+  margin: 0 auto;
+  border-radius: 200px;
+}
 #home {
   color: #e6e6e6;
 }
