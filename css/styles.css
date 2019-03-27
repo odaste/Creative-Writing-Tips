@@ -39,7 +39,7 @@ body {
   color: #e6e6e6;
 }
 #convo {
-  display: block;
+  display: flex;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
