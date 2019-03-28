@@ -18,7 +18,7 @@ body {
   color: #e6e6e6;
 }
 
-#bookPile {
+#topImage {
   display: flex;
   padding: 20px;
   margin: 0 auto;
@@ -38,16 +38,4 @@ body {
 }
 #otherWebsites {
   color: #e6e6e6;
-}
-#convo {
-  display: flex;
-  padding: 20px;
-  margin: 0 auto;
-  border-radius: 200px;
-}
-#structurePicture {
-  display: flex;
-  padding: 20px;
-  margin: 0 auto;
-  border-radius: 200px;
 }
