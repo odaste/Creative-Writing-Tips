@@ -17,6 +17,10 @@ body {
 #navbarsExampleDefault {
   color: #e6e6e6;
 }
+#navbarToggleExternalContent {
+  color: #e6e6e6;
+  background-color: #99003d;
+}
 .collapse-navbar-collapse {
   display: inline;
 }
