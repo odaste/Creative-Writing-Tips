@@ -16,7 +16,14 @@ body {
 }
 #navbarsExampleDefault {
   color: #e6e6e6;
+  display: inline;
 }
+  /* Smartphone Portrait and Landscape */
+  @media only screen
+    and (min-device-width : 320px)
+    and (max-device-width : 480px){
+     #navbarsExampleDefault { display: none;}
+  }
 
 #topImage {
   display: flex;
@@ -39,6 +46,7 @@ body {
 #otherWebsites {
   color: #e6e6e6;
 }
+
 .mobileShow {
   display: none;
 }
